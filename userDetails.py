@@ -20,6 +20,6 @@ for i in range(n):
     print("Data Given By the User " + str(i+1))
     print("Username         : " + userName[i])
     print("Car Name         : " + carName[i])
-    print("Register Number  : " + userName[i])
+    print("Register Number  : " + regNo[i])
     print("Car Color        : " + carColor[i])
     print("\n")
